@@ -6,15 +6,14 @@ Nous devions répondre à un appel d'offres d'une entreprise fictive dénommée 
 
 Étant un groupe de consultants dans une SSII, nous avons élaboré une proposition en réponse à leur cahier des charges.
 
-##
+***
 
 - **Protocoles réseaux** : OSPF, BGP, MPLS, VRF, MP-BGP, VRRP, STP, VLANs, dot1q
 - **Serveur Windows** : DHCP, DNS, WinRDS, Active Directory, RADIUS + pfSense
 - **Serveur Linux** : messagerie, NextCloud, Broker MQTT
 - **Serveur Téléphonie** : FreePBX
 
-## Compétences
-
+**Compétences** : 
 > * Réseaux informatiques 
 > * Serveur Windows 
 > * Serveur Linux 
@@ -25,5 +24,5 @@ Nous devions répondre à un appel d'offres d'une entreprise fictive dénommée 
 > * Gestion de projet 
 > * Réponse aux appels d’offres
 
-
-=> https://github.com/Fatih-RT/Beerok/wiki (meilleur version)
+![Plan](https://www.hebergeur-image.com/upload/82.67.100.22-673d0a1425383.jpg)
+![coeur du réseaux]('')
