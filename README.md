@@ -1,28 +1,58 @@
-Lors de ce projet, nous devions mettre en place un réseau d'entreprise multisite.
+🍺 Beerok - Projet de Réseau Multisite d’Entreprise
 
-Nos connaissances en commutation Ethernet, en protocoles de routage, en serveurs Linux et Windows, ainsi qu'en téléphonie sur IP et en gestion de projet ont été mobilisées pour le mener à bien.
+Beerok est un projet académique visant à concevoir une infrastructure réseau multisite pour une entreprise fictive, spécialiste de la chaussure sportive, souhaitant moderniser et restructurer son infrastructure informatique à travers ses sites situés en France.
 
-Nous devions répondre à un appel d'offres d'une entreprise fictive dénommée "_**Beerok**_", spécialiste de la chaussure sportive, souhaitant restructurer son infrastructure réseau et informatique sur l’ensemble de ses sites situés en France.
+Ce projet nous a permis de mobiliser un ensemble de compétences variées en réseaux informatiques, administration système, VoIP et gestion de projet pour répondre à un appel d’offres exigeant.
 
-Étant un groupe de consultants dans une SSII, nous avons élaboré une proposition en réponse à leur cahier des charges.
+🎯 Objectif du Projet
 
-***
+La mission principale était de répondre au cahier des charges de Beerok, en tant que consultants au sein d’une SSII. Nous avons élaboré une proposition technique complète pour :
+	•	Mettre en place un réseau multisite performant et sécurisé.
+	•	Déployer des services informatiques adaptés sur Linux et Windows.
+	•	Mettre en œuvre une solution de téléphonie sur IP.
+	•	Proposer une architecture évolutive et adaptée aux besoins futurs de l’entreprise.
 
-- **Protocoles réseaux** : OSPF, BGP, MPLS, VRF, MP-BGP, VRRP, STP, VLANs, dot1q
-- **Serveur Windows** : DHCP, DNS, WinRDS, Active Directory, RADIUS + pfSense
-- **Serveur Linux** : messagerie, NextCloud, Broker MQTT
-- **Serveur Téléphonie** : FreePBX
+🛠️ Technologies et Protocoles Utilisés
 
-**Compétences** : 
-> * Réseaux informatiques 
-> * Serveur Windows 
-> * Serveur Linux 
-> * Voix sur IP (VoIP) 
-> * IoT 
-> * MQTT 
-> * Cybersécurité 
-> * Gestion de projet 
-> * Réponse aux appels d’offres
+📡 Réseaux & Protocoles
+	•	Routage : OSPF, BGP, MPLS, MP-BGP, VRF
+	•	Commutation : VLANs, dot1q, STP, VRRP
+	•	Sécurité réseau : VRF, pfSense
+
+🖥️ Serveurs
+	•	Windows Server :
+	•	Active Directory
+	•	DHCP / DNS
+	•	WinRDS
+	•	RADIUS
+	•	Linux Server :
+	•	Serveur de messagerie
+	•	NextCloud
+	•	Broker MQTT
+
+☎️ Téléphonie IP
+	•	Déploiement de FreePBX pour une solution de Voix sur IP (VoIP).
+
+💡 Compétences Déployées
+	•	Réseaux informatiques : conception et déploiement de solutions complexes multisites.
+	•	Administration système : configuration de serveurs Windows et Linux.
+	•	VoIP et téléphonie sur IP : mise en œuvre d’une infrastructure téléphonique moderne.
+	•	IoT & MQTT : intégration de solutions pour l’Internet des objets.
+	•	Cybersécurité : sécurisation des infrastructures réseau et systèmes.
+	•	Gestion de projet : élaboration et suivi de planning, réponse à un appel d’offres.
+
+🚀 Résultats Attendues
+
+Notre proposition pour Beerok a permis de :
+	•	Concevoir une architecture réseau évolutive, fiable et sécurisée.
+	•	Répondre efficacement à l’ensemble des exigences du cahier des charges.
+	•	Intégrer des technologies modernes pour garantir la continuité des activités de l’entreprise.
+
+📬 Contact
+
+Pour toute question ou suggestion, n’hésitez pas à me contacter :
+Auteur : Fatih KILIC
+GitHub : https://github.com/Fatih-RT
 
 ![Plan](https://www.hebergeur-image.com/upload/82.67.100.22-673d0a1425383.jpg)
 ![coeur du réseaux]('')
