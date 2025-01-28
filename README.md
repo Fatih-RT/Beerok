@@ -54,6 +54,9 @@ La mission principale était de répondre au cahier des charges de Beerok, en ta
 	•	Intégrer des technologies modernes pour garantir la continuité des activités de l’entreprise.
 
 ## 📬 Contact
-	Pour toute question ou suggestion, n’hésitez pas à me contacter :
-	Auteur : Fatih KILIC
-	GitHub : https://github.com/Fatih-RT
+	
+ Pour toute question ou suggestion, n’hésitez pas à me contacter :
+ 
+-	Auteur : Fatih KILIC
+-	GitHub : [https://github.com/Fatih-RT](https://github.com/Fatih-RT)
+-	Portfolio : [portfolio.fatih-kilic.fr](portfolio.fatih-kilic.fr)
