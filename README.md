@@ -14,7 +14,6 @@ La mission principale était de répondre au cahier des charges de Beerok, en ta
 
  <centre>
 	 <img src="https://www.hebergeur-image.com/upload/82.67.100.22-673d0a1425383.jpg">
-	![coeur du réseaux]('')
  </centre>
 
 # 🛠️ Technologies et Protocoles Utilisés
